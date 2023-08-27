@@ -123,6 +123,8 @@ return [
 
     'cipher' => 'AES-256-CBC',
 
+    'image_base_url' => env('IMAGE_BASE_URL'),
+
     /*
     |--------------------------------------------------------------------------
     | Autoloaded Service Providers
